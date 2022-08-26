@@ -1,0 +1,36 @@
+1.	Suryawanshi R K, Poonam Saindansing   NCACM (2022)- (Springer) "Critical analysis of storm water drainage network in Mithi Basin in view of July -2005 flood event in Mumbai".
+2.	Suryawanshi R K, Gayatri Salunkhe,   NCACM (2022) (Springer) " Performance evaluation study of ward wise solid waste management for Nashik city using geospatial and analytical tools."
+3.	Suryawanshi R K, Prajakta Gaware NCACM (2022) (Springer) “Stream rejuvenation for Mula basin using IWRM approach for drought management"
+4.	Suryawanshi R K, Raibhan Sarnobbat, Pritam Bhadane, Vaibhav Markad NCACM  (2022) (Springer) "Study of development of inter basin  pipeline water grid for Maharashtra using geospatial tools."
+5.	Suryawanshi R K, Asish Shinde NCACM (2021) "Urban Flood Modelling for Pune City using Geospatial Tools"
+6.	Suryawanshi R K, Priyadarshni Deshmukh (2021) "Benchmarking of Khadakwasla Irrigation project using geospatial and simulation tools"
+7.	Suryawanshi R K, Mosumi Chatterjee (IWW (2019) "Dam break flood inundation studies for Hinglow Dam"
+8.	Suryawanshi R K, Srujan Gavale IWW (2019) "River Rejuvenation by Adopting Continuous Stream Storage Approach in Mula-Mutha Basin using Geospatial &Simulation Tools"
+9.	Suryawanshi R K, Akshata Kothale ICACAC (2020) "Study of Solid Waste Management System for Pune City using Geospatial tools"
+10.	Suryawanshi R K, Saurab Gangurde ICACAC (2020)    "Development of Perspective Plan of Integrated Water Supply and Sanitation for Dhule City using Geospatial Tools"
+11.	Suryawanshi R K, Thube A D,  Pandhe S A (2019)  MoWR-International  Confnference  on Irrigation Management(ICIM)-Aurngabad “Quantitative impact assessment of improved irrigation efficiency with integrated management of  Storage reservoirs in Girna basin  using simulation tools”
+12.	Suryawanshi R K, Thube A D, Gamali  S G (2019)  MoWR-International  Conference on Irrigation Management(ICIM), Aurangabad “ Applications of geospatial tools for assessment of maximum storage potential in watershed using continuous stream storage approach.”
+13.	Suryawanshi R K, Nishank Irabatti (IWW (2019) "Critical analysis of Water supply network for Solapur city suburb using soft computing tools"
+14.	Suryawanshi, R.K., Gedam, S.S., Sankhua, R.N., (2014) "Flood Estimation Using Advance Geospatial Tools ", Journal Of Geomatics, ISG, April, Pp 20-26.
+15.	Suryawanshi, R.K., Gedam, S.S., Sankhua, R.N., (2012) "Use of advance geospatial tools for estimation of spatial rainfall‖" – International Water Resources Association (India) Journal, ISSN: 2277-1298 (Print)ISSN: 2277-1301 (Online), July, Vol.1.No-2, pp 14-17.
+16.	Suryawanshi, R.K., Gedam, S.S., Sankhua, R.N. (2012) "Comparative analysis of spatial rainfall-runoff estimation using advance geospatial tools, ANN and empirical approach". International Journal of Emerging Technology and Advanced Engineering, Oct. Volume 2, Issue 10
+17.	Suryawanshi, R.K., Gedam, S.S., Sankhua, R.N., (2014) "Flood forecasting using advance geospatial tools" “Current Science, Current Sciences Association, Indian academy of Sciences (Accepted)
+18.	Suryawanshi, R.K., Gedam, S.S., Sankhua, R.N. (2011) "Estimation of lake inflows using advance geospatial tools"-Proceedings of World Lake Conference-2011, Texas State University (Austin) USA
+19.	Suryawanshi, R.K., Gedam, S.S., Sankhua, R.N. (2012) "Inflow forecasting for lakes using Artificial Neural Networks" Flood Recovery, Innovation and Response-III (FRIAR-2012), Online ISSN:1743-3541 Print ISBN:978-1-84564-588-5, Ecology& Environment, Vol-159, Wesex Institute of Technology, London (UK) 146
+20.	Suryawanshi, R.K., Gedam, S.S., Sankhua, R.N. (2013) "Rainfall based digital flood estimation techniques." – Proceedings of National seminar on ―Climate change impacts on water resources systems‖, PIET, Vadodara, (India).
+21.	Suryawanshi, R,K. (2009) ―"Advance techniques in water resources management" Proceedings of Indo-US Workshop on ―Emerging Issues in Water Management for Sustainable Agriculture in South Asia Region‖, Michigan State University (USA) and CSWCRTI -Ooty (India).
+22.	Suryawanshi, R.K., Gedam, S.S., Sankhua, R.N. (2014) Real time inflow forecasting for reservoir water management using advance geospatial tools Asian Federation for International Technology in Agriculture-2014 (AFITA-2014) 29Sept-2Oct-2014 Perth Australia, (Accepted but could not be presented)
+23.	Suryawanshi, R.K., Gedam, S.S., Sankhua, R.N. (2014) Digital flood estimation using advance geospatial tools ―International Conference on Climate Change and Humanity- ICCCH 2014, Melbourne, Australia. (Accepted but could not be presented)
+24.	Suryawanshi, R.K., Gedam, S.S., Sankhua, R.N., (2014) Deterministic approach for flood forecasting using geospatial tools‖ Hydrological Sciences Journal‖ ISSN 0262-6667 (Print), 2150-3435 (Online) Journal of the international Association of Hydrological Sciences (IAHS), Taylor & Francis (under review).
+25.	R.K.Suryawanshi, -Major Issues For R&D In Future Water Scenario (National workshop on R & D in Water sector, NWA Pune)
+26.	R.K. Suryawanshi - Decision Support System for Implementation of Integrated Water Resources Management by River Basin Organisations -- (National workshop on IWRM- NWA Pune)
+27.	R. K. Suryawanshi “Integrated River Basin Planning & Management” – Indian Scenario (National workshop on IWRM -NWA Pune)
+28.	R.K.Suryawanshi, V.M. Natraj, Dhande H. C., Khairnar P D.,Patidar G J.Estimation of Quantitative Benefits Of Improved Irrigation Efficiency Using Simulation Technique --- (National workshop on IWRM -NWA Pune)
+29.	R. K. Suryawanshi, C.L. Bajaj -Analysis and Interpretation of   Dam Instrumentation Data of Srisailam Dam… (National workshop on Dam Instrumentation-NWA Pune)
+30.	R. K. Suryawanshi, A B Pandya -Dam Instrumentation- Issues and Options … (National workshop on Dam Instrumentation-NWA Pune)
+31.	R. K. Suryawanshi -Instrumentation Program – Need of The Hour…. (National workshop on Dam Instrumentation-NWA Pune)
+32.	R K Suryawanshi, S.R.Gaikwad -Hydrological Instrumentation-An Overview…. (National workshop on Dam Instrumentation-NWA Pune)
+33.	R K Suryawanshi P G Sahasrabuddhe   K R Subramanian   H Y Kolawale   --Decision Support System for Integrated Water Resources Management (Case Study for Upper Godawari River Basin) (National workshop on IWRM -NWA Pune)
+34.	R K Suryawanshi, K R Joshi--"Use of Modern Tools for ILR Project" - NWA (2009) Pune
+35.	R K Suryawanshi-"River Basin Management Information System & Basin simulation "NWA (2008) Pune
+36.	R K Suryawanshi --"Yield Studies for Ib Irrigation Project in Mahanadi Basin (Orissa)" Bhagirath (1987) CWC- New Delhi)
